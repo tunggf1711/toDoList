@@ -7,10 +7,10 @@ import ToDoList from "./ToDoList/Components/ToDoList";
 function App() {
   return (
     <div className="App">
-      <Buger />
+      {/* <Buger /> */}
       {/* <FormValidation /> */}
       {/* <DemoJSS /> */}
-      {/* <ToDoList /> */}
+      <ToDoList />
     </div>
   );
 }
